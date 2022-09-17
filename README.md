@@ -25,3 +25,20 @@ The repository contains all the machine learning, deep learning and NLP concepts
 14. How to handle Imbalanced Classes in Dataset - https://youtu.be/rVuUqpyPwEs
 15. Ensemble Techniques to improve Model Performance - https://youtu.be/qPN-S5Ltbm4
 16. Dimensionality Reduction using PCA vs LDA vs t-SNE vs UMAP - https://youtu.be/gk7ntPrxy-k
+17. Handle Large Data using pandas - https://youtu.be/bd_1T2JCr4M
+
+## Natural Language Processing
+
+1. Tokenization - https://youtu.be/ivCcY8JCxeY
+2. Stemming | Extract Root Words - https://youtu.be/O-SaH_dnb9A
+3. Lemmatization - https://youtu.be/uvKKEkYZcdw
+4. Part of Speech Tagging (POS) - https://youtu.be/n6j-T3_F9dI
+5. Text Preprocessing in NLP - https://youtu.be/Br5dmsa49wo
+6. Bag of Words (BOW) - https://youtu.be/dSce20oYIPY
+7. Term Frequency - Inverse Document Frequency (TF-IDF) - https://youtu.be/O9aAwvk6SNI
+8. Word2Vec - https://youtu.be/4DoJcQblpGQ
+9. Word Embedding | GloVe - https://youtu.be/6uxVtUMtqtk
+
+## Deep Learning
+
+1. 
